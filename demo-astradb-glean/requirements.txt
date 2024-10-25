@@ -1,0 +1,9 @@
+astrapy==1.4.1
+python-dotenv==1.0.0
+datasets
+python-dotenv
+pandas==2.1.4
+ipywidgets==8.1.0
+tqdm==4.64.0
+colorama==0.4.5
+https://app.glean.com/meta/indexing_api_client.zip
