@@ -19,8 +19,12 @@ Notes
 > This is a caution. It warns about potential issues or pitfalls.
 
 ----
-COLLAPSABLE
+CODE HIHGLIHTS
 
-> [!div class="collapsible"]
-> ### Expand for more details
-> Content that can be hidden.
+```java source="MyClass.java" highlight="2-4"
+public class MyClass {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+```
