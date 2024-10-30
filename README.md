@@ -3,9 +3,10 @@ Demo showing how to index AstraDB data into Glean
 
 You can follow this tutorial fully in a google collab or follow the instructions below to run locally
 
+
 ## Work in a Collab
 
-[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-blue?logo=google-colab&style=for-the-badge)](https://colab.research.google.com/github/datastaxdevs/mini-demo-astradb-glean/blob/main/AstraDB_Glean_Integration.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-blue?logo=google-colab&style=for-the-badge)](https://colab.research.google.com/github/datastaxdevs/blob/main/astra-glean-datasource/astra-glean-import-notebook.ipynb)
 
 ## Run Locally
 
@@ -34,7 +35,7 @@ Get to the databases dashboard (by clicking on Databases in the left-hand naviga
 - **ℹ️ Fields Description**
 
 | Field                                      | Description                                                                                                                                                                                                                                   |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Vector Database vs Serverless Database** | Choose `Vector Database` In june 2023, Cassandra introduced the support of vector search to enable Generative AI use cases.                                                                                                                   |
 | **Database name**                          | It does not need to be unique, is not used to initialize a connection, and is only a label (keep it between 2 and 50 characters). It is recommended to have a database for each of your applications. The free tier is limited to 5 databases. |
 | **Cloud Provider**                         | Choose whatever you like. Click a cloud provider logo, pick an Area in the list and finally pick a region. We recommend choosing a region that is closest to you to reduce latency. In free tier, there is very little difference.            |
