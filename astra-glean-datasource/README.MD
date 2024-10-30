@@ -17,3 +17,10 @@ Notes
 
 > [!CAUTION]
 > This is a caution. It warns about potential issues or pitfalls.
+
+----
+COLLAPSABLE
+
+> [!div class="collapsible"]
+> ### Expand for more details
+> Content that can be hidden.
