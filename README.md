@@ -1,4 +1,5 @@
-# mini-demo-astradb-glean
+# Workshop Glean and DataStax
+
 Demo showing how to index AstraDB data into Glean
 
 You can follow this tutorial fully in a google collab or follow the instructions below to run locally
@@ -6,7 +7,7 @@ You can follow this tutorial fully in a google collab or follow the instructions
 
 ## Work in a Collab
 
-[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-blue?logo=google-colab&style=for-the-badge)](https://colab.research.google.com/github/datastaxdevs/blob/main/astra-glean-datasource/astra-glean-import-notebook.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-blue?logo=google-colab&style=for-the-badge)](https://colab.research.google.com/github/datastaxdevs/workshop-datastax-glean/blob/main/astra-glean-datasource/astra-glean-import-notebook.ipynb)
 
 ## Run Locally
 
